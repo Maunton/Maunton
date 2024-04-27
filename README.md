@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tony! <br/><a  href="https://www.youtube.com/channel/UCsfaR_P9SeQtU2OKbbUJJuQ">YouTuber</a></h1>
+<h1>Hi, I'm Tony! <br/><a 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -6,21 +6,11 @@
   - [Unversity Cyber Project](https://github.com/Maunton/University-Cyber-Project)
 
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-
-
 [youtube]: https://www.youtube.com/channel/UCsfaR_P9SeQtU2OKbbUJJuQ
 
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**maunton/maunton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
