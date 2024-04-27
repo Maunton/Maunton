@@ -5,7 +5,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>University Cyber Project</b>
-  - [Unversity Cyber Project](https://github.com/Maunton/University-Cyber-Project)
+  - [University Cyber Project](https://github.com/Maunton/University-Cyber-Project)
 - <b>Active Directory & Splunk Project</b>
   - [Active Directory & Splunk](https://github.com/Maunton/Active-Directory-Splunk)
  
