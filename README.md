@@ -17,8 +17,7 @@
 
 
 [youtube]: https://www.youtube.com/channel/UCsfaR_P9SeQtU2OKbbUJJuQ
-[instagram](https://www.instagram.com/mauntonhiker)
-[linkedin](https://www.linkedin.com/in/tony-m-729993294/)
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
