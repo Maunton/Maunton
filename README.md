@@ -10,10 +10,14 @@
   - [Active Directory & Splunk](https://github.com/Maunton/Active-Directory-Splunk)
  
 <h2>📃 Certificates & Certifications:</h2>
-- <b>Google Cybersecurity</b>
 
-![google cyber final cert](https://github.com/Maunton/Maunton/assets/148402281/3194212d-567f-4d3d-bf2f-6ef4c57e196e)
+  - <b>Google Cybersecurity</b>(https://imgur.com/sm2pkCp)</b>
+  
+  - <b>Simplilearn-Network+</b>(https://imgur.com/DFhiWcw)</b>
 
+  - <b>Simplilearn-Security+</b>(https://imgur.com/NjOtsn8)</b>
+
+  - <b>Simplilearn-Certified Ethical Hacker V12</b>(https://imgur.com/el2IFw2)</b>
 
 <!--
 **maunton/maunton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
