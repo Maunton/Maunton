@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Home Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>University Cyber Project</b>
+  - [Unversity Cyber Project](https://github.com/Maunton/University-Cyber-Project)
 
 
 <h2>📺 Popular YouTube Videos</h2>
