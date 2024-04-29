@@ -9,7 +9,7 @@
 - <b>Active Directory & Splunk Project</b>
   - [Password cracking using Crowbar](https://github.com/Maunton/Active-Directory-Splunk)
 - <b>Active Directory & Splunk Project</b>
-  - [LLMNR Poisoning and Mitigation](https://github.com/Maunton/Active-Directory-Splunk)    
+  - [LLMNR Poisoning and Mitigation](https://github.com/Maunton/Active-Directory-Splunk-2)    
  
 <h2>📃 Certificates & Certifications:</h2>
 
