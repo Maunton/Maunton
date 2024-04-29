@@ -7,7 +7,9 @@
 - <b>University Cyber Project</b>
   - [University Cyber Project](https://github.com/Maunton/University-Cyber-Project)
 - <b>Active Directory & Splunk Project</b>
-  - [Active Directory & Splunk: Password cracking using Crowbar](https://github.com/Maunton/Active-Directory-Splunk)
+  - [Password cracking using Crowbar](https://github.com/Maunton/Active-Directory-Splunk)
+- <b>Active Directory & Splunk Project</b>
+  - [LLMNR Poisoning and Mitigation](https://github.com/Maunton/Active-Directory-Splunk)    
  
 <h2>📃 Certificates & Certifications:</h2>
 
