@@ -11,7 +11,9 @@
 - <b>Active Directory & Splunk Project</b>
   - [LLMNR Poisoning and Mitigation](https://github.com/Maunton/Active-Directory-Splunk-2)
 - <b>Active Directory, Splunk & Atomic Red Team</b>
-  - [Using Atomic Red Team to activate Events on Splunk](https://github.com/Maunton/ActiveDirectory-Splunk-Atomic_Red_Team)   
+  - [Using Atomic Red Team to activate Events on Splunk](https://github.com/Maunton/ActiveDirectory-Splunk-Atomic_Red_Team)
+- <b>Playbook</b>
+  - [Phishing playbook](https://github.com/Maunton/Phishing-Playbook)
  
 <h2>📃 Certificates & Certifications:</h2>
 
