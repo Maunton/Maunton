@@ -21,7 +21,6 @@
   
   - <b>Simplilearn-Network+</b><b>![simplilearn network+](https://github.com/Maunton/Maunton/assets/148402281/8ec91cf6-1a88-4b70-bc48-efe8fbad8454)<b>
 
-  - <b>Simplilearn-Security+</b>![simplisecurity+](https://github.com/Maunton/Maunton/assets/148402281/0f2c46ed-1cb9-4eb8-badd-a60b38ced86e)<b>
 
   - <b>Simplilearn-Certified Ethical Hacker CEH-V12</b>![simplilearn CEH V12](https://github.com/Maunton/Maunton/assets/148402281/dcec2a11-25a9-47c5-a1ff-c54000c4dc30)<b>
 
