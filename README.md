@@ -14,25 +14,32 @@
   - [Using Atomic Red Team to activate Events on Splunk](https://github.com/Maunton/ActiveDirectory-Splunk-Atomic_Red_Team)
 - <b>Playbook</b>
   - [Phishing playbook](https://github.com/Maunton/Phishing-Playbook)
+- <b>Tenable Nessus Essentials Scan</b>
+  - [Scanning Kali from Ubuntu](https://github.com/Maunton/Nessus-Scan)
+  
  
-<h2>📃 Certifications, Certificates & Education:</h2>
+<h2>📃 Certifications & Certificates:</h2>
 
-  - <b>Google Cybersecurity</b>![google cyber final cert](https://github.com/Maunton/Maunton/assets/148402281/81e37bbf-bb7c-4a75-85ab-f31fb0022a7f)
-  
-  - <b>Simplilearn-Network+</b><b>![simplilearn network+](https://github.com/Maunton/Maunton/assets/148402281/8ec91cf6-1a88-4b70-bc48-efe8fbad8454)<b>
+  - <b>API Security for Connected Cars and Fleets</b>
+  <img width="180" alt="CompTIA Security+" src="https://images.credly.com/size/680x680/images/f5ceb8aa-9080-4abb-8fb5-83f2f0c5cbd9/image.png">
+
+  - <b>OWASP API Security Top 10</b>
+  <img width="180" alt="CompTIA Security+" src="https://images.credly.com/size/680x680/images/66fb5b06-7caf-4b23-a0c3-d262ba57e3c2/image.png">
+
+  - <b>Securing API Servers</b>
+  <img width="180" alt="CompTIA Security+" src="https://images.credly.com/size/680x680/images/71296528-e07b-44af-b5cd-7723599793cf/image.png">
+
+  - <b>APISEC University</b>
+  <img width="180" alt="api-security-fundamentals" src="https://github.com/Maunton/Maunton/assets/148402281/72b2e390-2d63-423e-acf1-c7e54f406bbb">
+
+   - <b>Google Cybersecurity Certificate & CompTIA Security+ dual credential</b>
+  <img width="180" alt="CompTIA Security+" src="https://images.credly.com/size/680x680/images/8630f885-621e-420a-bdb5-11fe53d1caf6/image.png">
 
 
-  - <b>Simplilearn-Certified Ethical Hacker CEH-V12</b>![simplilearn CEH V12](https://github.com/Maunton/Maunton/assets/148402281/dcec2a11-25a9-47c5-a1ff-c54000c4dc30)<b>
-
-
-
-  - <b>APISEC University</b><img width="180" alt="api-security-fundamentals" src="https://github.com/Maunton/Maunton/assets/148402281/72b2e390-2d63-423e-acf1-c7e54f406bbb">
-
-  
-
+  - <b>CompTIA Security+</b>
+  <img width="180" alt="CompTIA Security+" src="https://imgur.com/KmpF1Wp.png">
 <!--
 **maunton/maunton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
