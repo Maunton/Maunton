@@ -18,7 +18,8 @@
   - [Scanning Kali from Ubuntu](https://github.com/Maunton/Nessus-Scan)
 - <b>SOAR-EDR-Integration-and-Automation-Project</b>
   - [SOAR-EDR-Integration-and-Automation-Project](https://github.com/Maunton/SOAR-EDR-Integration-and-Automation-Project)
-  
+- <b>SOC-Automation-Project</b>
+  - [SOC-Automation-Project](https://github.com/Maunton/SOC-Automation-Project)  
  
 <h2>📃 Certifications & Certificates:</h2>
 
