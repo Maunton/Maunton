@@ -19,7 +19,9 @@
 - <b>SOAR-EDR-Integration-and-Automation-Project</b>
   - [SOAR-EDR-Integration-and-Automation-Project](https://github.com/Maunton/SOAR-EDR-Integration-and-Automation-Project)
 - <b>SOC-Automation-Project</b>
-  - [SOC-Automation-Project](https://github.com/Maunton/SOC-Automation-Project)  
+  - [SOC-Automation-Project](https://github.com/Maunton/SOC-Automation-Project)
+- <b>Personal-Expense-Tracker</b>
+  - [Personal-Expense-Tracker](https://github.com/Maunton/Personal-Expense-Tracker) 
  
 <h2>📃 Certifications & Certificates:</h2>
 
