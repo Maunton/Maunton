@@ -21,7 +21,9 @@
 - <b>SOC-Automation-Project</b>
   - [SOC-Automation-Project](https://github.com/Maunton/SOC-Automation-Project)
 - <b>Personal-Expense-Tracker</b>
-  - [Personal-Expense-Tracker](https://github.com/Maunton/Personal-Expense-Tracker) 
+  - [Personal-Expense-Tracker](https://github.com/Maunton/Personal-Expense-Tracker)
+- <b>Task-Manager-Login</b>
+  - [Task-Manager-Login](https://github.com/Maunton/Task-Manager-Login)
  
 <h2>📃 Certifications & Certificates:</h2>
 
