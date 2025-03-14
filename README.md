@@ -2,7 +2,7 @@
 
 
 
-<h2>👨‍💻 Cybersecurity Labs & Projects:</h2>
+<h2>👨‍💻 Cybersecurity, Python Scripting and Machine Learning Labs & Projects:</h2>
 
 - <b>University Cyber Project</b>
   - [University Cyber Project](https://github.com/Maunton/University-Cyber-Project)
