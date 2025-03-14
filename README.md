@@ -25,7 +25,7 @@
 - <b>Task-Manager-Login</b>
   - [Task-Manager-Login](https://github.com/Maunton/Task-Manager-Login)
 - <b>Employee-Turnover-Analytics-using-Machine-Learning</b>
-  - [Task-Manager-Login](https://github.com/Maunton/Employee-Turnover-Analytics-using-Machine-Learning)
+  - [Employee Turnover Analytics using Machine Learning](https://github.com/Maunton/Employee-Turnover-Analytics-using-Machine-Learning)
  
 <h2>📃 Certifications & Certificates:</h2>
 
