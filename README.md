@@ -26,6 +26,8 @@
   - [Task-Manager-Login](https://github.com/Maunton/Task-Manager-Login)
 - <b>Employee-Turnover-Analytics-using-Machine-Learning</b>
   - [Employee Turnover Analytics using Machine Learning](https://github.com/Maunton/Employee-Turnover-Analytics-using-Machine-Learning)
+- <b>Google-Collab-Notes-AL/ML-Cohort</b>
+  - [Google-Collab-Notes](https://github.com/Maunton/Google-Collab)
  
 <h2>📃 Certifications & Certificates:</h2>
 
