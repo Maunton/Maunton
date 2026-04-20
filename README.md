@@ -4,8 +4,7 @@
 
 <h2>👨‍💻 Cybersecurity, Python Scripting and Machine Learning Labs & Projects:</h2>
 
-- <b>Windows IR Lab</b>
-  - [Windows IR Lab](https://github.com/Maunton/Maunton/tree/main/projects/windows-ir-lab)
+
 - <b>University Cyber Project</b>
   - [University Cyber Project](https://github.com/Maunton/University-Cyber-Project)
 - <b>Active Directory & Splunk Project</b>
