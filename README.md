@@ -2,33 +2,56 @@
 
 
 
-<h2>👨‍💻 Cybersecurity, Python Scripting and Machine Learning Labs & Projects:</h2>
+## 👨‍💻 Cybersecurity, Python Scripting and Machine Learning Labs & Projects
 
-- <b>Windows IR Lab</b>
-  - [Windows IR Lab](https://github.com/Maunton/windows-ir-lab)
-- <b>University Cyber Project</b>
-  - [University Cyber Project](https://github.com/Maunton/University-Cyber-Project)
-- <b>Active Directory & Splunk Project</b>
-  - [Password cracking using Crowbar](https://github.com/Maunton/Active-Directory-Splunk)
-- <b>LLMNR Poisoning and Mitigation</b>
-  - [LLMNR Poisoning and Mitigation](https://github.com/Maunton/Active-Directory-Splunk-2)
-- <b>Active Directory, Splunk & Atomic Red Team</b>
-  - [Using Atomic Red Team to activate Events on Splunk](https://github.com/Maunton/ActiveDirectory-Splunk-Atomic_Red_Team)
-- <b>Playbook</b>
-  - [Phishing playbook](https://github.com/Maunton/Phishing-Playbook)
-- <b>Tenable Nessus Essentials Scan</b>
-  - [Scanning Kali from Ubuntu](https://github.com/Maunton/Nessus-Scan)
-- <b>SOAR-EDR-Integration-and-Automation-Project</b>
-  - [SOAR-EDR-Integration-and-Automation-Project](https://github.com/Maunton/SOAR-EDR-Integration-and-Automation-Project)
-- <b>SOC-Automation-Project</b>
-  - [SOC-Automation-Project](https://github.com/Maunton/SOC-Automation-Project)
-- <b>Personal-Expense-Tracker</b>
-  - [Personal-Expense-Tracker](https://github.com/Maunton/Personal-Expense-Tracker)
-- <b>Task-Manager-Login</b>
-  - [Task-Manager-Login](https://github.com/Maunton/Task-Manager-Login)
-- <b>Employee-Turnover-Analytics-using-Machine-Learning</b>
-  - [Employee Turnover Analytics using Machine Learning](https://github.com/Maunton/Employee-Turnover-Analytics-using-Machine-Learning)
- 
+* **Windows IR Lab**
+
+  * [Windows incident response and detection lab with Sysmon, PowerShell, ATT&CK mapping, and HTML reporting](https://github.com/Maunton/windows-ir-lab)
+
+* **University Cyber Project**
+
+  * [University Cyber Project](https://github.com/Maunton/University-Cyber-Project)
+
+* **Active Directory & Splunk Project**
+
+  * [Password cracking using Crowbar](https://github.com/Maunton/Active-Directory-Splunk)
+
+* **LLMNR Poisoning and Mitigation**
+
+  * [LLMNR Poisoning and Mitigation](https://github.com/Maunton/Active-Directory-Splunk-2)
+
+* **Active Directory, Splunk & Atomic Red Team**
+
+  * [Using Atomic Red Team to activate Events on Splunk](https://github.com/Maunton/ActiveDirectory-Splunk-Atomic_Red_Team)
+
+* **Playbook**
+
+  * [Phishing playbook](https://github.com/Maunton/Phishing-Playbook)
+
+* **Tenable Nessus Essentials Scan**
+
+  * [Scanning Kali from Ubuntu](https://github.com/Maunton/Nessus-Scan)
+
+* **SOAR-EDR-Integration-and-Automation-Project**
+
+  * [SOAR-EDR-Integration-and-Automation-Project](https://github.com/Maunton/SOAR-EDR-Integration-and-Automation-Project)
+
+* **SOC-Automation-Project**
+
+  * [SOC-Automation-Project](https://github.com/Maunton/SOC-Automation-Project)
+
+* **Personal-Expense-Tracker**
+
+  * [Personal-Expense-Tracker](https://github.com/Maunton/Personal-Expense-Tracker)
+
+* **Task-Manager-Login**
+
+  * [Task-Manager-Login](https://github.com/Maunton/Task-Manager-Login)
+
+* **Employee-Turnover-Analytics-using-Machine-Learning**
+
+  * [Employee Turnover Analytics using Machine Learning](https://github.com/Maunton/Employee-Turnover-Analytics-using-Machine-Learning)
+
 <h2>📃 Certifications & Certificates:</h2>
 
   - <b>API Security for Connected Cars and Fleets</b>
