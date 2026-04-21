@@ -12,9 +12,9 @@
 
   * [University Incident Response Case Study](https://github.com/Maunton/University-Cyber-Project)
 
-* **Active Directory & Splunk Project**
+* **Active Directory + Splunk home lab for monitoring Windows authentication events, investigating failed logons, and validating SIEM visibility.**
 
-  * [Password cracking using Crowbar](https://github.com/Maunton/Active-Directory-Splunk)
+  * [Built a virtualized Active Directory security lab with Splunk to analyze Windows authentication events, investigate failed logons, and identify source systems through SIEM-based log analysis.](https://github.com/Maunton/Active-Directory-Splunk)
 
 * **LLMNR Poisoning and Mitigation**
 
