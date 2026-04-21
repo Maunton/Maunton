@@ -8,9 +8,9 @@
 
   * [Windows incident response and detection lab with Sysmon, PowerShell, ATT&CK mapping, and HTML reporting](https://github.com/Maunton/windows-ir-lab)
 
-* **University Cyber Project**
+* **University Incident Response Case Study**
 
-  * [University Cyber Project](https://github.com/Maunton/University-Cyber-Project)
+  * [University Incident Response Case Study](https://github.com/Maunton/University-Cyber-Project)
 
 * **Active Directory & Splunk Project**
 
