@@ -16,9 +16,9 @@
 
   * [Built a virtualized Active Directory security lab with Splunk to analyze Windows authentication events, investigate failed logons, and identify source systems through SIEM-based log analysis.](https://github.com/Maunton/Active-Directory-Splunk)
 
-* **LLMNR Poisoning and Mitigation**
+* **Active-Directory-LLMNR-Mitigation-Lab**
 
-  * [LLMNR Poisoning and Mitigation](https://github.com/Maunton/Active-Directory-Splunk-2)
+  * [Active-Directory-LLMNR-Mitigation-Lab](https://github.com/Maunton/Active-Directory-Splunk-2)
 
 * **Active Directory, Splunk & Atomic Red Team**
 
