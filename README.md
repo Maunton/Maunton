@@ -30,7 +30,7 @@ I build cybersecurity, detection engineering, automation, and machine learning h
 - **[Active Directory, Splunk, and Atomic Red Team](https://github.com/Maunton/ActiveDirectory-Splunk-Atomic_Red_Team)**  
   Used Atomic Red Team to generate security-relevant activity and validate Splunk visibility within an Active Directory lab.
 
-- **[Phishing Playbook](https://github.com/Maunton/Phishing-Playbook)**  
+- **[Phishing Incident Response Playbook](https://github.com/Maunton/Phishing-Playbook)**  
   Created a phishing investigation and response playbook to support repeatable security operations workflows.
 
 - **[Tenable Nessus Essentials Scan](https://github.com/Maunton/Nessus-Scan)**  
