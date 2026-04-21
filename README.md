@@ -1,6 +1,17 @@
-## Welcome to my cybersecurity, detection engineering, and machine learning homelabs. These projects showcase hands-on work in incident response, Active Directory security, SIEM analysis, scripting, and defensive validation.
+# Welcome
 
-## Cybersecurity, Python, and Machine Learning Projects
+I build cybersecurity, detection engineering, automation, and machine learning homelabs focused on incident response, Active Directory security, SIEM analysis, scripting, and defensive validation.
+
+## Pinned Projects
+
+| Project | Summary |
+|---|---|
+| [Windows Incident Response Lab](https://github.com/Maunton/Windows-IR-Lab) | Windows IR and detection lab using Sysmon, PowerShell, ATT&CK mapping, and HTML reporting. |
+| [University Incident Response Case Study](https://github.com/Maunton/University-Incident-Response-Case-Study) | Incident response investigation focused on log analysis, attack reconstruction, and reporting. |
+| [Active Directory Security Monitoring with Splunk](https://github.com/Maunton/Active-Directory-Splunk) | AD security monitoring lab using Splunk to analyze authentication events and suspicious activity. |
+| [Active Directory LLMNR Poisoning & Mitigation Lab](https://github.com/Maunton/Active-Directory-LLMNR-Mitigation-Lab) | Demonstrates LLMNR poisoning, NTLM hash capture, password cracking, and defensive hardening. |
+
+## Featured Cybersecurity Projects
 
 - **[Windows Incident Response Lab](https://github.com/Maunton/Windows-IR-Lab)**  
   Built a Windows incident response and detection lab using Sysmon, PowerShell, ATT&CK mapping, and HTML reporting to investigate host-based activity and document findings.
@@ -14,68 +25,50 @@
 - **[Active Directory LLMNR Poisoning & Mitigation Lab](https://github.com/Maunton/Active-Directory-LLMNR-Mitigation-Lab)**  
   Demonstrated LLMNR poisoning, NTLM hash capture, password cracking, and mitigation through Group Policy and NetBIOS hardening in a controlled Active Directory lab.
 
-* **Active Directory, Splunk & Atomic Red Team**
+## Additional Security and Automation Projects
 
-  * [Using Atomic Red Team to activate Events on Splunk](https://github.com/Maunton/ActiveDirectory-Splunk-Atomic_Red_Team)
+- **[Active Directory, Splunk, and Atomic Red Team](https://github.com/Maunton/ActiveDirectory-Splunk-Atomic_Red_Team)**  
+  Used Atomic Red Team to generate security-relevant activity and validate Splunk visibility within an Active Directory lab.
 
-* **Playbook**
+- **[Phishing Playbook](https://github.com/Maunton/Phishing-Playbook)**  
+  Created a phishing investigation and response playbook to support repeatable security operations workflows.
 
-  * [Phishing playbook](https://github.com/Maunton/Phishing-Playbook)
+- **[Tenable Nessus Essentials Scan](https://github.com/Maunton/Nessus-Scan)**  
+  Performed vulnerability scanning in a lab environment using Nessus Essentials to identify and review host weaknesses.
 
-* **Tenable Nessus Essentials Scan**
+- **[SOAR and EDR Integration and Automation Project](https://github.com/Maunton/SOAR-EDR-Integration-and-Automation-Project)**  
+  Built a security automation lab integrating SOAR and EDR concepts to improve response workflows and investigation efficiency.
 
-  * [Scanning Kali from Ubuntu](https://github.com/Maunton/Nessus-Scan)
+- **[SOC Automation Project](https://github.com/Maunton/SOC-Automation-Project)**  
+  Developed a SOC-focused automation lab demonstrating security workflow orchestration, event handling, and operational efficiency.
 
-* **SOAR-EDR-Integration-and-Automation-Project**
+## Software and Machine Learning Projects
 
-  * [SOAR-EDR-Integration-and-Automation-Project](https://github.com/Maunton/SOAR-EDR-Integration-and-Automation-Project)
+- **[Personal Expense Tracker](https://github.com/Maunton/Personal-Expense-Tracker)**  
+  Built a personal finance tracking application to organize and monitor expenses.
 
-* **SOC-Automation-Project**
+- **[Task Manager Login](https://github.com/Maunton/Task-Manager-Login)**  
+  Developed a task management application with authentication and user access control.
 
-  * [SOC-Automation-Project](https://github.com/Maunton/SOC-Automation-Project)
+- **[Employee Turnover Analytics using Machine Learning](https://github.com/Maunton/Employee-Turnover-Analytics-using-Machine-Learning)**  
+  Applied machine learning techniques to analyze employee turnover patterns and build predictive insights from HR data.
 
-* **Personal-Expense-Tracker**
+## Certifications and Certificates
 
-  * [Personal-Expense-Tracker](https://github.com/Maunton/Personal-Expense-Tracker)
+- **API Security for Connected Cars and Fleets**  
+  <img width="180" alt="API Security for Connected Cars and Fleets" src="https://images.credly.com/size/680x680/images/f5ceb8aa-9080-4abb-8fb5-83f2f0c5cbd9/image.png">
 
-* **Task-Manager-Login**
+- **OWASP API Security Top 10**  
+  <img width="180" alt="OWASP API Security Top 10" src="https://images.credly.com/size/680x680/images/66fb5b06-7caf-4b23-a0c3-d262ba57e3c2/image.png">
 
-  * [Task-Manager-Login](https://github.com/Maunton/Task-Manager-Login)
+- **Securing API Servers**  
+  <img width="180" alt="Securing API Servers" src="https://images.credly.com/size/680x680/images/71296528-e07b-44af-b5cd-7723599793cf/image.png">
 
-* **Employee-Turnover-Analytics-using-Machine-Learning**
+- **APISEC University**  
+  <img width="180" alt="APISEC University" src="https://github.com/Maunton/Maunton/assets/148402281/72b2e390-2d63-423e-acf1-c7e54f406bbb">
 
-  * [Employee Turnover Analytics using Machine Learning](https://github.com/Maunton/Employee-Turnover-Analytics-using-Machine-Learning)
+- **Google Cybersecurity Certificate and CompTIA Security+ Dual Credential**  
+  <img width="180" alt="Google Cybersecurity Certificate and CompTIA Security+ Dual Credential" src="https://images.credly.com/size/680x680/images/8630f885-621e-420a-bdb5-11fe53d1caf6/image.png">
 
-<h2>📃 Certifications & Certificates:</h2>
-
-  - <b>API Security for Connected Cars and Fleets</b>
-  <img width="180" alt="CompTIA Security+" src="https://images.credly.com/size/680x680/images/f5ceb8aa-9080-4abb-8fb5-83f2f0c5cbd9/image.png">
-
-  - <b>OWASP API Security Top 10</b>
-  <img width="180" alt="CompTIA Security+" src="https://images.credly.com/size/680x680/images/66fb5b06-7caf-4b23-a0c3-d262ba57e3c2/image.png">
-
-  - <b>Securing API Servers</b>
-  <img width="180" alt="CompTIA Security+" src="https://images.credly.com/size/680x680/images/71296528-e07b-44af-b5cd-7723599793cf/image.png">
-
-  - <b>APISEC University</b>
-  <img width="180" alt="api-security-fundamentals" src="https://github.com/Maunton/Maunton/assets/148402281/72b2e390-2d63-423e-acf1-c7e54f406bbb">
-
-   - <b>Google Cybersecurity Certificate & CompTIA Security+ dual credential</b>
-  <img width="180" alt="CompTIA Security+" src="https://images.credly.com/size/680x680/images/8630f885-621e-420a-bdb5-11fe53d1caf6/image.png">
-
-
-  - <b>CompTIA Security+</b>
-  <img width="180" alt="CompTIA Security+" src="https://imgur.com/KmpF1Wp.png">
-<!--
-**maunton/maunton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **CompTIA Security+**  
+  <img width="180" alt="CompTIA Security+" src="https://i.imgur.com/KmpF1Wp.png">
