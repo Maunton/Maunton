@@ -1,24 +1,18 @@
-<h1>Welcome to my homelabs and projects which have helped me gain experience in Cybersecurity, Machine Learning and Deep Learning<br/> 
+## Welcome to my cybersecurity, detection engineering, and machine learning homelabs. These projects showcase hands-on work in incident response, Active Directory security, SIEM analysis, scripting, and defensive validation.
 
+## Cybersecurity, Python, and Machine Learning Projects
 
+- **[Windows Incident Response Lab](https://github.com/Maunton/Windows-IR-Lab)**  
+  Built a Windows incident response and detection lab using Sysmon, PowerShell, ATT&CK mapping, and HTML reporting to investigate host-based activity and document findings.
 
-## 👨‍💻 Cybersecurity, Python Scripting and Machine Learning Labs & Projects
+- **[University Incident Response Case Study](https://github.com/Maunton/University-Incident-Response-Case-Study)**  
+  Documented a university-level incident response investigation focused on log analysis, attack reconstruction, and defensive reporting.
 
-* **Windows IR Lab**
+- **[Active Directory Security Monitoring with Splunk](https://github.com/Maunton/Active-Directory-Splunk)**  
+  Built a virtualized Active Directory lab with Splunk to analyze Windows authentication events, investigate failed logons, and identify attack-relevant activity through SIEM-based log analysis.
 
-  * [Windows incident response and detection lab with Sysmon, PowerShell, ATT&CK mapping, and HTML reporting](https://github.com/Maunton/windows-ir-lab)
-
-* **University Incident Response Case Study**
-
-  * [University Incident Response Case Study](https://github.com/Maunton/University-Cyber-Project)
-
-* **Active Directory + Splunk**
-
-  * [Built a virtualized Active Directory security lab with Splunk to analyze Windows authentication events, investigate failed logons, and identify source systems through SIEM-based log analysis.](https://github.com/Maunton/Active-Directory-Splunk)
-
-* **Active-Directory-LLMNR-Mitigation-Lab**
-
-  * [Active-Directory-LLMNR-Mitigation-Lab](https://github.com/Maunton/Active-Directory-Splunk-2)
+- **[Active Directory LLMNR Poisoning & Mitigation Lab](https://github.com/Maunton/Active-Directory-LLMNR-Mitigation-Lab)**  
+  Demonstrated LLMNR poisoning, NTLM hash capture, password cracking, and mitigation through Group Policy and NetBIOS hardening in a controlled Active Directory lab.
 
 * **Active Directory, Splunk & Atomic Red Team**
 
