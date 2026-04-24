@@ -51,50 +51,121 @@ I build cybersecurity, detection engineering, automation, and machine learning h
   Developed a task management application with authentication and user access control.
 
 - **[Employee Turnover Analytics using Machine Learning](https://github.com/Maunton/Employee-Turnover-Analytics-using-Machine-Learning)**  
-  Applied machine learning techniques to analyze employee turnover patterns and build predictive insights from HR data.
+  Applied machine learning techniques to analyze employee turnover patterns and build predictive insights from HR.
 
+<!-- CERTIFICATIONS-START -->
 ## Certifications and Certificates
 
 ### Cybersecurity & API Security
 
 <table>
   <tr>
-    <td align="center" width="160">
-      <img width="120" alt="API Security for Connected Cars and Fleets" src="https://images.credly.com/size/680x680/images/f5ceb8aa-9080-4abb-8fb5-83f2f0c5cbd9/image.png"><br>
+    <td align="center" width="150">
+      <img width="110" alt="API Security for Connected Cars and Fleets" src="https://images.credly.com/size/680x680/images/f5ceb8aa-9080-4abb-8fb5-83f2f0c5cbd9/image.png"><br>
       <sub><b>API Security for Connected Cars and Fleets</b></sub>
     </td>
-    <td align="center" width="160">
-      <img width="120" alt="OWASP API Security Top 10" src="https://images.credly.com/size/680x680/images/66fb5b06-7caf-4b23-a0c3-d262ba57e3c2/image.png"><br>
+    <td align="center" width="150">
+      <img width="110" alt="OWASP API Security Top 10" src="https://images.credly.com/size/680x680/images/66fb5b06-7caf-4b23-a0c3-d262ba57e3c2/image.png"><br>
       <sub><b>OWASP API Security Top 10</b></sub>
     </td>
-    <td align="center" width="160">
-      <img width="120" alt="Securing API Servers" src="https://images.credly.com/size/680x680/images/71296528-e07b-44af-b5cd-7723599793cf/image.png"><br>
+    <td align="center" width="150">
+      <img width="110" alt="Securing API Servers" src="https://images.credly.com/size/680x680/images/71296528-e07b-44af-b5cd-7723599793cf/image.png"><br>
       <sub><b>Securing API Servers</b></sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="160">
-      <img width="120" alt="APISEC University" src="https://github.com/Maunton/Maunton/assets/148402281/72b2e390-2d63-423e-acf1-c7e54f406bbb"><br>
+    <td align="center" width="150">
+      <img width="110" alt="APISEC University" src="https://github.com/Maunton/Maunton/assets/148402281/72b2e390-2d63-423e-acf1-c7e54f406bbb"><br>
       <sub><b>APISEC University</b></sub>
     </td>
-    <td align="center" width="160">
-      <img width="120" alt="Google Cybersecurity Certificate and CompTIA Security+ Dual Credential" src="https://images.credly.com/size/680x680/images/8630f885-621e-420a-bdb5-11fe53d1caf6/image.png"><br>
+    <td align="center" width="150">
+      <img width="110" alt="Google Cybersecurity Certificate and CompTIA Security+ Dual Credential" src="https://images.credly.com/size/680x680/images/8630f885-621e-420a-bdb5-11fe53d1caf6/image.png"><br>
       <sub><b>Google Cybersecurity + Security+</b></sub>
     </td>
-    <td align="center" width="160">
-      <img width="120" alt="CompTIA Security+" src="https://i.imgur.com/KmpF1Wp.png"><br>
+    <td align="center" width="150">
+      <img width="110" alt="CompTIA Security+" src="https://i.imgur.com/KmpF1Wp.png"><br>
       <sub><b>CompTIA Security+</b></sub>
+    </td>
+  </tr>
+</table>
+
+### Governance, Risk, Compliance & Security Training
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <a href="certificates/nist-rmf-sp800-37.png"><img width="160" alt="NIST Risk Management Framework SP 800-37" src="certificates/nist-rmf-sp800-37.png"></a><br>
+      <sub><b>NIST RMF SP 800-37</b></sub>
+    </td>
+    <td align="center" width="180">
+      <a href="certificates/nist-sp800-53.png"><img width="160" alt="NIST SP 800-53 Security and Privacy Controls" src="certificates/nist-sp800-53.png"></a><br>
+      <sub><b>NIST SP 800-53 Controls</b></sub>
+    </td>
+    <td align="center" width="180">
+      <a href="certificates/nist-sp800-53a.png"><img width="160" alt="NIST SP 800-53A Assessing Security and Privacy Controls" src="certificates/nist-sp800-53a.png"></a><br>
+      <sub><b>NIST SP 800-53A Assessment</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180">
+      <a href="certificates/nist-sp800-53b.png"><img width="160" alt="NIST SP 800-53B Control Baselines" src="certificates/nist-sp800-53b.png"></a><br>
+      <sub><b>NIST SP 800-53B Baselines</b></sub>
+    </td>
+    <td align="center" width="180">
+      <a href="certificates/simplilearn-security-plus.png"><img width="150" alt="Simplilearn CompTIA Security Plus" src="certificates/simplilearn-security-plus.png"></a><br>
+      <sub><b>CompTIA Security+ Training</b></sub>
+    </td>
+    <td align="center" width="180">
+      <a href="certificates/simplilearn-ceh-v12.png"><img width="150" alt="Simplilearn CEH v12 Certified Ethical Hacker Training" src="certificates/simplilearn-ceh-v12.png"></a><br>
+      <sub><b>CEH v12 Training</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180">
+      <a href="certificates/simplilearn-cissp.pdf"><img width="150" alt="Simplilearn CISSP Certificate" src="certificates/thumb-simplilearn-cissp.png"></a><br>
+      <sub><b>CISSP Training</b></sub>
+    </td>
+    <td align="center" width="180">
+      <a href="certificates/cyber-security-expert.pdf"><img width="150" alt="Simplilearn Cyber Security Expert Certificate" src="certificates/thumb-cyber-security-expert.png"></a><br>
+      <sub><b>Cyber Security Expert</b></sub>
+    </td>
+    <td align="center" width="180">
+      <a href="certificates/comptia-network-plus.pdf"><img width="150" alt="Simplilearn CompTIA Network Plus Certificate" src="certificates/thumb-comptia-network-plus.png"></a><br>
+      <sub><b>CompTIA Network+ Training</b></sub>
     </td>
   </tr>
 </table>
 
 ### Artificial Intelligence, Machine Learning & Data Science
 
-| Certificate | Focus Area | Credential |
-|---|---|---|
-| Caltech CTME Artificial Intelligence and Machine Learning Master Class | AI / ML Foundations | [View Certificate](certificates/caltech-ctme-ai-ml-master-class.pdf) |
-| Caltech Artificial Intelligence and Machine Learning Bootcamp | AI / ML Bootcamp | [View Certificate](certificates/caltech-ai-ml-bootcamp.pdf) |
-| Applied Data Science with Python | Python / Data Science | [View Certificate](certificates/applied-data-science-python.pdf) |
-| Deep Learning with Keras & Tensorflow | Deep Learning / Neural Networks | [View Certificate](certificates/deep-learning-keras-tensorflow.pdf) |
-| NLP and Speech Recognition | NLP / Speech Recognition | [View Certificate](certificates/nlp-speech-recognition.pdf) |
-| Programming Refresher | Programming / Foundations | [View Certificate](certificates/programming-refresher.pdf) |
+<table>
+  <tr>
+    <td align="center" width="180">
+      <a href="certificates/caltech-ai-ml-bootcamp.pdf"><img width="150" alt="Caltech Artificial Intelligence and Machine Learning Bootcamp" src="certificates/thumb-caltech-ai-ml-bootcamp.png"></a><br>
+      <sub><b>Caltech AI/ML Bootcamp</b></sub>
+    </td>
+    <td align="center" width="180">
+      <a href="certificates/caltech-ctme-ai-ml-master-class.pdf"><img width="150" alt="Caltech CTME Artificial Intelligence and Machine Learning Master Class" src="certificates/thumb-caltech-ctme-ai-ml-master-class.png"></a><br>
+      <sub><b>Caltech CTME AI/ML Master Class</b></sub>
+    </td>
+    <td align="center" width="180">
+      <a href="certificates/applied-data-science-python.pdf"><img width="150" alt="Applied Data Science with Python" src="certificates/thumb-applied-data-science-python.png"></a><br>
+      <sub><b>Applied Data Science with Python</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180">
+      <a href="certificates/deep-learning-keras-tensorflow.pdf"><img width="150" alt="Deep Learning with Keras and Tensorflow" src="certificates/thumb-deep-learning-keras-tensorflow.png"></a><br>
+      <sub><b>Deep Learning with Keras & TensorFlow</b></sub>
+    </td>
+    <td align="center" width="180">
+      <a href="certificates/nlp-speech-recognition.pdf"><img width="150" alt="NLP and Speech Recognition" src="certificates/thumb-nlp-speech-recognition.png"></a><br>
+      <sub><b>NLP & Speech Recognition</b></sub>
+    </td>
+    <td align="center" width="180">
+      <a href="certificates/programming-refresher.pdf"><img width="150" alt="Programming Refresher" src="certificates/thumb-programming-refresher.png"></a><br>
+      <sub><b>Programming Refresher</b></sub>
+    </td>
+  </tr>
+</table>
+<!-- CERTIFICATIONS-END -->
