@@ -55,20 +55,83 @@ I build cybersecurity, detection engineering, automation, and machine learning h
 
 ## Certifications and Certificates
 
-- **API Security for Connected Cars and Fleets**  
-  <img width="180" alt="API Security for Connected Cars and Fleets" src="https://images.credly.com/size/680x680/images/f5ceb8aa-9080-4abb-8fb5-83f2f0c5cbd9/image.png">
+### Cybersecurity, API Security & Security Operations
 
-- **OWASP API Security Top 10**  
-  <img width="180" alt="OWASP API Security Top 10" src="https://images.credly.com/size/680x680/images/66fb5b06-7caf-4b23-a0c3-d262ba57e3c2/image.png">
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img width="120" alt="API Security for Connected Cars and Fleets" src="https://images.credly.com/size/680x680/images/f5ceb8aa-9080-4abb-8fb5-83f2f0c5cbd9/image.png"><br>
+      <sub><b>API Security for Connected Cars and Fleets</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img width="120" alt="OWASP API Security Top 10" src="https://images.credly.com/size/680x680/images/66fb5b06-7caf-4b23-a0c3-d262ba57e3c2/image.png"><br>
+      <sub><b>OWASP API Security Top 10</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img width="120" alt="Securing API Servers" src="https://images.credly.com/size/680x680/images/71296528-e07b-44af-b5cd-7723599793cf/image.png"><br>
+      <sub><b>Securing API Servers</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img width="120" alt="APISEC University" src="https://github.com/Maunton/Maunton/assets/148402281/72b2e390-2d63-423e-acf1-c7e54f406bbb"><br>
+      <sub><b>APISEC University</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img width="120" alt="Google Cybersecurity Certificate and CompTIA Security+ Dual Credential" src="https://images.credly.com/size/680x680/images/8630f885-621e-420a-bdb5-11fe53d1caf6/image.png"><br>
+      <sub><b>Google Cybersecurity + CompTIA Security+ Dual Credential</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img width="120" alt="CompTIA Security+" src="https://i.imgur.com/KmpF1Wp.png"><br>
+      <sub><b>CompTIA Security+</b></sub>
+    </td>
+    <td align="center" width="150">
+      <br>
+      <sub><b>Security+ Focus Areas</b><br>Risk Management • Threats • Vulnerability Management • Security Operations</sub>
+    </td>
+    <td align="center" width="150">
+      <br>
+      <sub><b>API Security Focus Areas</b><br>OWASP API Top 10 • Server Hardening • Connected Vehicle Security</sub>
+    </td>
+  </tr>
+</table>
 
-- **Securing API Servers**  
-  <img width="180" alt="Securing API Servers" src="https://images.credly.com/size/680x680/images/71296528-e07b-44af-b5cd-7723599793cf/image.png">
+### Artificial Intelligence, Machine Learning & Data Science
 
-- **APISEC University**  
-  <img width="180" alt="APISEC University" src="https://github.com/Maunton/Maunton/assets/148402281/72b2e390-2d63-423e-acf1-c7e54f406bbb">
+<table>
+  <tr>
+    <td align="center" width="180">
+      <b>Artificial Intelligence and Machine Learning Bootcamp</b><br>
+      <sub>California Institute of Technology CTME • May 2025</sub><br>
+      <sub><a href="certificates/AI%20and%20ML%20Bootcamp.pdf">View Certificate</a></sub>
+    </td>
+    <td align="center" width="180">
+      <b>Caltech CTME Artificial Intelligence and Machine Learning Master Class</b><br>
+      <sub>Simplilearn • Nov 2024 • Code: 7554884</sub><br>
+      <sub><a href="certificates/7554884_59684561731547526020.pdf">View Certificate</a></sub>
+    </td>
+    <td align="center" width="180">
+      <b>Applied Data Science with Python</b><br>
+      <sub>Simplilearn • Jan 2025 • 1 Project Passed • Code: 7799463</sub><br>
+      <sub><a href="certificates/applied_data_science_python.pdf">View Certificate</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180">
+      <b>Deep Learning with Keras & Tensorflow</b><br>
+      <sub>Simplilearn • May 2025 • 1 Project Passed • Code: 8306155</sub><br>
+      <sub><a href="certificates/deep_learning_with_keras_tensorflow.pdf">View Certificate</a></sub>
+    </td>
+    <td align="center" width="180">
+      <b>NLP and Speech Recognition</b><br>
+      <sub>Simplilearn • Jul 2025 • Test Passed • Code: 8701788</sub><br>
+      <sub><a href="certificates/nlp_cert.pdf">View Certificate</a></sub>
+    </td>
+    <td align="center" width="180">
+      <b>Programming Refresher</b><br>
+      <sub>Simplilearn • Jan 2025 • 2 Projects Passed • Code: 7598895</sub><br>
+      <sub><a href="certificates/7598895_59684561737572098439.pdf">View Certificate</a></sub>
+    </td>
+  </tr>
+</table>
 
-- **Google Cybersecurity Certificate and CompTIA Security+ Dual Credential**  
-  <img width="180" alt="Google Cybersecurity Certificate and CompTIA Security+ Dual Credential" src="https://images.credly.com/size/680x680/images/8630f885-621e-420a-bdb5-11fe53d1caf6/image.png">
-
-- **CompTIA Security+**  
-  <img width="180" alt="CompTIA Security+" src="https://i.imgur.com/KmpF1Wp.png">
